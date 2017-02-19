@@ -3,9 +3,17 @@ padding: 0px;
 margin: 0px;
 }
 #wrapper{
-  width: 970px;
+  width: 956px;
   background-color: #4d0019;
   padding: 15px;
+  height: 946px;
+  margin: auto;
+}
+#about{
+  width: 488px;
+  height: 289px;
+  display: inline-block;
+  margin-left: 20px;
 }
 #picture{
   background-color:white;
@@ -18,87 +26,83 @@ margin: 0px;
   background-color:grey;
   height: 39px;
   width: 488px;
-  display: inline-block;
-  margin-bottom: 288px;
-  margin-left: 34px;
 }
 #header{
   background-color: white;
   width: 488px;
-  height: 248px;
-  display: inline-block;
-  margin-left: -492px;
-  margin-bottom: 40px;
+  height: 260px;
 }
-#caption1{
-  background-color: grey;
-  height: 50px;
-  width: 50px;
-  display: inline-block;
+h1{
+  font-weight: bolder;
+  font-size: 20px;
+  color: white;
+  margin-left: 7px;
+  line-height: 35px;
 }
-#caption1, #caption2, #caption3{
+h2{
+  font-weight: bolder;
+  font-size: 16px;
+  color: white;
+  margin-left: 7px;
+  line-height: 28px;
+}
+.text{
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.align{
+  margin-left:;
 
 }
-#header1, #header2, #header3{
-
+.body{
+  background-color: #4d0019;
+  width: 986px;
+  height: 383px;
+  margin-top: 10px;
+  margin-left: -15px;
 }
-#header1{
-  background-color: white;
-  width: 100px;
-  height: 100px;
+.button{
+  height:19px;
+  width: 113px;
+  background-color: green;
   display: inline-block;
+  border-radius: 5px;
+  padding: 7px;
+  margin-left: 71px;
+  margin-top: 10px;
+  color: white;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  box-shadow: 3px 3px 3px black;
 }
-#caption2{
-  background-color: grey;
-  height: 50px;
-  width: 50px;
+.content{
+  background-color: white;
+  width: 294px;
+  height: 392px;
+  margin: 16px;
   display: inline-block;
+  vertical-align: top;
 }
-#header2{
-  background-color: white;
-  width: 100px;
-  height: 100px;
-  display: inline-block;
-}
-#caption3{
+.content_header{
   background-color: grey;
-  height: 50px;
-  width: 50px;
-  display: inline-block;
+  width: 294px;
+  height: 39px;
 }
-#header3{
+.content_body{
   background-color: white;
-  width: 100px;
-  height: 100px;
-  display: inline-block;
+  width: 294px;
+  height: 373px;
 }
-#caption4{
+.technology_header{
   background-color: grey;
-  height: 50px;
-  width: 50px;
+  width: 294px;
+  height: 29px;
 }
-#header4{
+.technology_body{
   background-color: white;
-  width: 100px;
-  height: 100px;
-}
-#caption5{
-  background-color: grey;
-  height: 50px;
-  width: 50px;
-}
-#header5{
-  background-color: white;
-  width: 100px;
-  height: 100px;
-}
-#caption6{
-  background-color: grey;
-  height: 50px;
-  width: 50px;
-}
-#header6{
-  background-color: white;
-  width: 100px;
-  height: 100px;
+  width: 294px;
+  height: 192px;
 }
