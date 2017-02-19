@@ -95,6 +95,11 @@ h2{
   background-color: white;
   width: 294px;
   height: 373px;
+  background: #dccedb;
+    background: -webkit-linear-gradient(-90deg, #dccedb, #fefdfe);
+    background: -o-linear-gradient(-90deg, #dccedb, #fefdfe);
+    background: -moz-linear-gradient(-90deg, #dccedb, #fefdfe);
+    background: linear-gradient(-90deg, #dccedb, #fefdfe);
 }
 .technology_header{
   background-color: grey;
@@ -105,4 +110,9 @@ h2{
   background-color: white;
   width: 294px;
   height: 192px;
+  background: #dccedb;
+    background: -webkit-linear-gradient(-90deg, #dccedb, #fefdfe);
+    background: -o-linear-gradient(-90deg, #dccedb, #fefdfe);
+    background: -moz-linear-gradient(-90deg, #dccedb, #fefdfe);
+    background: linear-gradient(-90deg, #dccedb, #fefdfe);
 }
